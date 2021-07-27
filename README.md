@@ -16,6 +16,7 @@
 - 🔭  I’m currently working at [Bookmate](https://bookmate.com/) on 
   - [Bookmate Journal](https://journal.bookmate.com/),
   - [Bookmate Zurnal](https://zurnal.bookmate.com/),
+  - [Bookmate Journal Denmark](http://journal.bookmate.dk/),
   - and [Bookmate](https://bookmate.com/)
 
 ## I use
