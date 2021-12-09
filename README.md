@@ -7,8 +7,12 @@
 
 [![Github Badge](https://img.shields.io/badge/-dariadia-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dariadia/)](https://www.github.com/dariadia/) 
 
-<a href="https://dev.to/dariadia">
+<a href="https://dev.to/dariadia" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Danni's DEV Community Profile" height="30" width="30">
+</a>
+
+<a href="https://codepen.io/dariadia"target="_blank">
+  <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="Danni's Codepen Profile" height="30" width="30">
 </a>
 
 <br> 
@@ -28,5 +32,5 @@
 
 ## Some of my Github Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dariadia&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadia&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dariadia&theme=merko&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadia&theme=merko&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
