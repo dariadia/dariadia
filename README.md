@@ -11,11 +11,12 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Danni's DEV Community Profile" height="30" width="30" />
 </a>
 
-<br> 
 
 <a href="https://codepen.io/dariadia" target="_blank">
-  <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="Danni's Codepen Profile" height="30" width="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="Danni's Codepen Profile" height="30" width="30" />
 </a>
+
+<br> 
 
 <br> 
 
