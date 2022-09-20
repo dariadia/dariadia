@@ -1,5 +1,5 @@
 ## Hey 👋, This is Danni
-<p align='left'>A passionate frontend developer from Moscow, Russia</p>
+<p align='left'>A passionate senior frontend developer from Moscow, Russia</p>
 
 - 📫  Reach me via **daria.diachkova@mail.ru**
 
@@ -20,8 +20,7 @@
 
 <br> 
 
-- 🔭  I’m currently working at [Bookmate](https://bookmate.com/) on 
-  - [Bookmate Journal](https://journal.bookmate.com/),
+- 🔭  I’m currently working as Frontend Lead at [Bookmate](https://bookmate.com/) on 
   - [Bookmate Zurnal](https://zurnal.bookmate.com/),
   - [Bookmate Journal Denmark](http://journal.bookmate.dk/),
   - and [Bookmate](https://bookmate.com/)
