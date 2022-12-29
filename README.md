@@ -1,7 +1,9 @@
 ## Hi 👋, This is Daria
 <p align='left'>A passionate senior frontend developer</p>
 
-- 📫  Reach me via **daria.diachkova@mail.ru**
+📫  Reach me via 
+- **daria.diachkova@mail.ru**
+- [telegram](https://t.me/redheadalert)
 
 <br>
 
