@@ -1,5 +1,5 @@
-## Hey 👋, This is Danni
-<p align='left'>A passionate senior frontend developer from Moscow, Russia</p>
+## Hi 👋, This is Daria
+<p align='left'>A passionate senior frontend developer</p>
 
 - 📫  Reach me via **daria.diachkova@mail.ru**
 
