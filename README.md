@@ -20,13 +20,6 @@
 
 <br> 
 
-<br> 
-
-- 🔭  I’m currently working as Frontend Lead at [Bookmate](https://bookmate.com/) on 
-  - [Bookmate Zurnal](https://zurnal.bookmate.com/),
-  - [Bookmate Journal Denmark](http://journal.bookmate.dk/),
-  - and [Bookmate](https://bookmate.com/)
-
 ## I use
 <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
 
