@@ -2,7 +2,7 @@
 <p align='left'>A passionate senior frontend developer</p>
 
 📫  Reach me via 
-- **daria.diachkova@mail.ru**
+- **[dariavdiachkova@gmail.com](mailto:dariavdiachkova@gmail.com)**
 - [telegram](https://t.me/redheadalert)
 
 <br>
