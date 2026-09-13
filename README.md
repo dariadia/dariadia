@@ -3,7 +3,6 @@
 
 📫  Reach me via 
 - **[dariavdiachkova@gmail.com](mailto:dariavdiachkova@gmail.com)**
-- [telegram](https://t.me/redheadalert)
 
 <br>
 
